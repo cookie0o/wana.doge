@@ -229,7 +229,7 @@ class Ui_Main_window(object):
         self.pushButton.setText(_translate("Main_window", "do nothing."))
         self.pushButton_2.setText(_translate("Main_window", "do nothing."))
         self.label_3.setText(_translate("Main_window", " ⠀⠀Send $2 worth of bitcoin to this address:"))
-        self.label_4.setText(_translate("Main_window", "bc1q59kz2vyhqnq4ytqc0932avfdy0z6ys6780vert"))
+        self.label_4.setText(_translate("Main_window", "bc1qz5q86hrj4n983vxey3mxrrd7227ueacdfz56c9"))
         self.textBrowser_3.setHtml(_translate("Main_window", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><meta charset=\"utf-8\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
